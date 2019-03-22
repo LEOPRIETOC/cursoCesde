@@ -1,7 +1,7 @@
 'use strict'
 //importacion de biblioteca (Modulos)
 let express = require('express');
-let bodyParser = require('body-parser');
+//let bodyParser = require('body-parser');
 //Ejecuto express
 let app = express();
 // cargar archivo de rutas
